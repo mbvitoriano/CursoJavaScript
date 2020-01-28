@@ -4,7 +4,7 @@
 
 
 ## Exemplo de Funcionamento
-![Alt Text](ComoFunciona.gif)
+![Alt Text](Desafio1.gif)
 ![Alt Text](Desafio2.gif)
 
 ## Exercícios: Módulo 02
