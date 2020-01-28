@@ -1,6 +1,6 @@
 # Desafio JavaScript - Módulo 2
 
-## Github Page com o resultado parcial: 
+## Github Page com o resultado parcial: https://mbvitoriano.github.io/CursoJavaScript/ 
 
 
 ## Exemplo de Funcionamento
